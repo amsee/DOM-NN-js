@@ -1,0 +1,4 @@
+// getElementById
+document.getElementById('');
+
+// getElementsby
